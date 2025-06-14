@@ -19,5 +19,7 @@ Tech Used
 - Rolling Hash algorithm for fast phrase comparison
 - VS Code + g++ for development and compilation
 - GitHub for version control and publishing
+  
+I built this to understand how plagiarism detection works internally — especially how algorithms can be used creatively to solve real-world problems like content duplication. It also helped me practice string manipulation, file handling, and hashing techniques in C++.
 
  
